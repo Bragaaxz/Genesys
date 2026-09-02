@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a3121087-6e16-4f94-9a79-4c31c4d6d88e" alt="Genesys - Transformamos ideias em experiências digitais" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a3121087-6e16-4f94-9a79-4c31c4d6d88e" alt="Genesys - Transformamos ideias em experiências digitais" width="40%" />
   
   <br />
   <br />
