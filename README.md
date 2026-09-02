@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Genesys - Transformamos ideias em experiências digitais" width="100%" />
+  <img src="./assets/logo.png" alt="Genesys - Transformamos ideias em experiências digitais" width="100%" />
   
   <br />
   <br />
